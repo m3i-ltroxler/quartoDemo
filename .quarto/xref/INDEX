@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.embed.ipynb": "6cc0990a",
+    "index.out.ipynb": "63380c49",
+    "index-preview.html": "5ee628d4",
+    "index.html": "0d1668de"
+  },
+  "CONTRIBUTING.md": {
+    "CONTRIBUTING-preview.html": "041b1419"
+  },
+  "CHANGELOG.md": {
+    "CHANGELOG-preview.html": "9d9f3c56"
+  }
+}
