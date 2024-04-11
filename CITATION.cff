@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Troxler"
+  given-names: "Laurent"
+  orcid: "https://orcid.org/0000-0001-8976-360X"
+title: "Quarto demo"
+url: "https://github.com/m3i-ltroxler/quartoDemot"
