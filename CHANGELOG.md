@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/m3i-ltroxler/quartoDemo/compare/v1.1.0...v1.2.0) (2024-04-11)
+
+
+### Features
+
+* my manuscript ([65fae45](https://github.com/m3i-ltroxler/quartoDemo/commit/65fae453d82e382303b5d64a50a53ade8b8707a9))
+
 ## [1.1.0](https://github.com/m3i-ltroxler/quartoDemo/compare/v1.0.0...v1.1.0) (2024-04-11)
 
 
